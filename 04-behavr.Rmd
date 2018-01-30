@@ -165,7 +165,7 @@ dt[meta = TRUE]
 ```
 
 This way, we can also **create new metavariables**.
-For instance, say you want to collapse `sex` and `condition` which both have two levels into one `treatment`, with four levels:
+For instance, say you want to collapse `sex` and `condition`, which both have two levels, into one `treatment`, with four levels:
 
 ```{r}
 dt[, treatment := paste(sex, condition, sep='|'), meta=T]

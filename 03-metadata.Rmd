@@ -31,7 +31,7 @@ From a computational perspective, thaving these extra columns is virtually free 
 
 ## Put replicates together{-}
 
-A common mistake for users is to perform several replicates of the same experiment and to make a new metadata file each time. Instead, I strongly recommand you to **put all replicates in the same file**. If it helps,
+A common mistake for users is to perform several replicates of the same experiment and to make a new metadata file each time. Instead, I strongly recommend you to **put all replicates in the same file**. If it helps,
 you can add a `replicate` column so you can keep track of which replicate each animal comes from.
 The whole point of high-througput analysis is that you can load all the data from all replicates and compare it (and maybe merge it). The bottom line is that, if you start form a single metadata file, your work will be more trackable, and you can always decide to analyse only one replicate at a time.
 Think about this metadata file as something needed in a line of research or project more than a file needed for every experiment. 

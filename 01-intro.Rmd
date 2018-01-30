@@ -68,4 +68,4 @@ kable(data.frame(
       row.names = FALSE)
 ``` 
 
-
+*If you are having problems downloading some of these packages, you might need to update the version of R you are using.

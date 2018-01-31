@@ -323,7 +323,7 @@ You really don't want to spend too long reloading data this sort of situation.
 
 To address this issue, `load_ethoscope` comes with a [caching](https://en.wikipedia.org/wiki/Cache_(computing)) option.
 When turned on, whenever you load any data, it stores a snapshot on the disk (in a directory you pick). 
-Then, the *next time* you load the data, loading happends directly from the snapshot.
+Then, the *next time* you load the data, loading happens directly from the snapshot.
 This way you will load data one or two orders of magnitudes faster!
 
 The first time, everything will take as long:

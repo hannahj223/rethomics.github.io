@@ -52,7 +52,7 @@ Although you can do much more with them, ethoscope are primarily designed to stu
 Therefore, this tutorial targets mainly users in this context.
 
 Ethoscopes typically generate hundreads of megabytes per machine per week.
-The platform is designed so that many devices run an parallel, and the resulting data is eventually centralised for all users. 
+The platform is designed so that many devices run in parallel, and the resulting data is eventually centralised for all users. 
 **Metadata tables are the best way to both keep track of your expriments and fetch the relevant data.**
 
 

@@ -169,7 +169,7 @@ Each of the 80 animals (rows) is defined by two mandatory columns (metavariables
 We defined also custom columns (i.e. metavariables). Note that you could define many, with arbitrary names:
 
 * `treatment` -- "yes" or "no", whether the drug was administered
-* `replicate` -- 1 or 2, firth or second replicate
+* `replicate` -- 1 or 2, first or second replicate
 * `expression_level` -- a continuous number [0, +Inf], how much a candidate gene is transcribed
 
 

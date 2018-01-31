@@ -289,7 +289,7 @@ print(dt)
 We have several variables (see in the  `===DATA===` section of the output).
 The important ones are:
 
-* `t` -- the time, in s, sample eveyr 10s
+* `t` -- the time, in s, sample every 10s
 * `x` -- the position in the tube (0 = left, 1=right)
 * `beam_cross` -- how many times the midline was crossed within the 10s window
 * `moving` -- whether any movement was detected in this time window

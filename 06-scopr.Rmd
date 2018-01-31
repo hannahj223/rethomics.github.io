@@ -316,7 +316,7 @@ dt <- load_ethoscope(metadata,
 
 ### Cache directory {-}
 
-One issue with loading ethoscope data is thta it is **relativelly slow**.
+One issue with loading ethoscope data is that it is **relativelly slow**.
 For instance, according to our computer, you may take half an hour to load data from 500 animals $times$ 1 week.
 In your daily life, you will often need to close `R` and open it again later to analyse things differently, or simply change simple parameters on some figures. 
 You really don't want to spend too long reloading data this sort of situation.

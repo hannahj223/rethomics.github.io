@@ -126,7 +126,7 @@ The data I gave you is from a real experiment, but for the sake of the tutorial,
 * We supect this drug acts indirectly by **inhibiting the expression of a (mystery) gene**
 
 To address these two questions, we have delivered a **drug** (yes or no) to fruit flies, and **randomised** their position in **two ethoscopes**. 
-We then acquiered individual data (e.g. position and activity) about **twice a second for several days**.
+We then acquired individual data (e.g. position and activity) about **twice a second for several days**.
 We performed **two replicates**, one week appart.
 In addition, in the end of the experiment, we also collected flies and **measured the relative expression of our candidate gene**.
 

@@ -183,7 +183,7 @@ It **allocates a unique identifier to each animal**. In addition, it finds the f
 
 ###  Local data {-}
 
-If your data is already in your computer (as it is now sice you have downloaded it manually),
+If your data is already in your computer (as it is now since you have downloaded it manually),
 you can simply link it like:
 
 ```{r}

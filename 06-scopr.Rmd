@@ -198,7 +198,7 @@ print(metadata)
 In real life situations, when several experimenters are working in parallel,
 Users should not:
 
-* Have to download all the data from all users at all time (very inefficient)
+* Have to download all the data from all users at all times (very inefficient)
 * Download data by hand from a server (error prone and time consuming)
 
 Instead, it will be more common that all the data is stored on an **FTP** server (i.e. a network drive).

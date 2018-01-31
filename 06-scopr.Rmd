@@ -189,7 +189,7 @@ you can simply link it like:
 ```{r}
 metadata <- link_ethoscope_metadata(metadata, 
                                     result_dir = "ethoscope_results")
-print(metadata)
+metadata
 ```
 
 

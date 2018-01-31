@@ -48,7 +48,7 @@ unzip(dst, exdir= DATA_DIR)
 ## Background {-}
 
 [The Ethoscope Platform](http://gilestrolab.github.io/ethoscope/) is a versatile and modular behavioural system to sudy behaviour of small animals. You can read more about it in our [PLOS Biology publication](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003026).
-Although you can do much more with them, ethoscope are primarily designed to study sleep and circadian rhythms in Drosophila. 
+Although you can do much more with them, ethoscopes are primarily designed to study sleep and circadian rhythms in Drosophila. 
 Therefore, this tutorial targets mainly users in this context.
 
 Ethoscopes typically generate hundreads of megabytes per machine per week.

@@ -284,7 +284,7 @@ pl <- ggetho(dt[id=="toy_experiment|01"],
              aes(x=t, z=moving), multiplot = 2) + stat_bar_tile_etho()
 pl
 ```
-
+*above lines of code do not work
 
 One thing you can do is change the length of the period. 
 For instance **25h instead of 24h**:

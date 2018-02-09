@@ -297,7 +297,7 @@ pl <- ggetho(dt[id=="toy_experiment|01"], aes(x=t, z=moving),
   stat_bar_tile_etho()
 pl
 ```
-
+* see comments
 
 Keep in mind that you can use the **tile representation if you prefer** it:
 

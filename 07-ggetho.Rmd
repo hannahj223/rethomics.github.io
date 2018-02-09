@@ -108,7 +108,7 @@ For instance, you could be interested in things like the number (sum) of beam cr
 
 ### Per individual{-}
 
-One of the most interesting layer is `stat_tile_etho`.
+One of the most interesting layers is `stat_tile_etho`.
 It shows the **variable of interest in the (colour) z axis**.
 The y axis is discrete (generally the id), taht is **one row per individual**.
 The x axis is time (by default, summerised, by `ggetho`, over 30 minutes).

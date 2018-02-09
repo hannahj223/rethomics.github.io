@@ -199,7 +199,7 @@ pl <- ggetho(dt, aes(x=t, y=moving)) + stat_pop_etho()
 pl
 ```
 
-By defaut, the local average and error bars are computed from the mean an standard errors (`method = mean_se`).
+By defaut, the local average and error bars are computed from the mean and standard errors (`method = mean_se`).
 You can compute other types of error bars e.g. bootstrap (`method = mean_cl_boot`).
 
 ### Several populations{-}

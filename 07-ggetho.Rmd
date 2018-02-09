@@ -79,7 +79,7 @@ It expresses the **relationship between variables**.
 In this respect, it works very much like `ggplot()`, but it also pre-processes the data.
 
 It is important to understand the **difference between `ggplot()` and `ggetho()`**.
-`ggplot()` is a works with data frames (or data tables), and does not preprocess the data.
+`ggplot()` works with data frames (or data tables), and does not preprocess the data.
 `ggetho()` is only a layer on top of `ggplot()`. 
 It works **exclusively with `behavr` tables** and does preprocess data before calling `ggplot()`.
 `ggetho()` does return `ggplot` a object, therefore, layers available in `ggplot2` can be used natively on top of `ggetho`. 

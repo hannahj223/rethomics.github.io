@@ -36,7 +36,7 @@ install_github("rethmics/ggetho")
 
 
 ## Lessons from ggplot{-}
-In the previous tutorials, we have used `ggetho` to visualise out behavioural data.
+In the previous tutorials, we have used `ggetho` to visualise our behavioural data.
 This section will explain further how this package can be used to produce flexible plots and how it integrates with `ggplot2`.
 
 [ggplot2](http://ggplot2.org/) is one of the most popular visualisation tool and an unavoidable `R` package.

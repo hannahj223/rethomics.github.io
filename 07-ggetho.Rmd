@@ -437,7 +437,7 @@ pl <- ggetho(dt, aes(x=t, y=moving)) +
             stat_ld_annotations() +
             # on top of it, a second layer that
             # starts at day 2 thoughout day 5,
-            # and where L colour is grey
+            # and where what would be the L phase is grey
             stat_ld_annotations(x_limits = days(c(2,5)),
                                 ld_colours = c("grey", "black" )) +
             stat_pop_etho()

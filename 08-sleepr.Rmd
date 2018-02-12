@@ -166,7 +166,7 @@ summary_dt <-
            by=id])
 summary_dt
 ```
-With `rejoin`, we have put our summary and metadata together, which is suitable for standars graphics/statictics.
+With `rejoin`, we have put our summary and metadata together, which is suitable for standard graphics/statictics.
 For instance, if we are interested in the effect of sleep and genotype on sleep amount, we can make a faceted boxplot, and also add individual points to show all data.
 
 ```{r}

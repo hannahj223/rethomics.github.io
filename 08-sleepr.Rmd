@@ -112,8 +112,8 @@ summary(dt_curated)
 ```
 
 ### Trimming {-}
-Generally, we want to remove point according the experimental time.
-For instance, lets say we would like to keep only the first 60 hours of data (i.e. 2.5 days)
+Generally, we want to remove points according to the experimental time.
+For instance, let's say we would like to keep only the first 60 hours of data (i.e. 2.5 days)
 
 
 ```{r}

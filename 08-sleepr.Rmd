@@ -25,7 +25,7 @@ In this practical chapter, we will use a real experiment to learn how to:
 
 ## Background{-}
 
-This tutorial focused on sleep in *Drosophila*.
+This tutorial is focused on sleep in *Drosophila*.
 Traditionally, activity is first scored (e.g. though beam crosses/video tracking).
 Then any bout of inactivity longer than five minutes counts as sleep.
 You can easily adapt this tutorial to scoring other models/behaviours as long as you can define **two discrete states** (e.g. sleep vs asleep, moving vs immobile, left vs right, ...).

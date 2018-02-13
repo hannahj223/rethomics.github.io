@@ -316,7 +316,7 @@ ggetho(bout_dt, aes(y=duration / 60, colour="sex"), time_wrap = hours(24)) +
 
 ```
 
-Note that this is a bit noisy as we only have a few animals per conbination of treatment.
+Note that this is a bit noisy as we only have a few animals per combination of treatment.
 
 
 ### Architecture description {-}

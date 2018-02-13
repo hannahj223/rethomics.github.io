@@ -333,7 +333,7 @@ You could apply the approach presented before to compute statistics according th
 
 ### Latency to sleep {-}
 
-The latency describe how long it takes for an animal to initiates its **first sleep bout**.
+The latency describes how long it takes for an animal to initiates its **first sleep bout**.
 Some researchers are also interested in the latency to the **longest bout**.
 In this example, lets say we focus on the second day (and not the night -- 24 to 36 hours).
 

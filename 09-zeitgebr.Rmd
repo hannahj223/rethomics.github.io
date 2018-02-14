@@ -54,7 +54,7 @@ They are described by one of three "period groups" (e.g. a genotype or treatment
 This is encoded int `period_group` metavariable can be either a "short"", "long"" or wild-type ("wt") period.
 
 ## Quality control {-}
-This data is fairely clean already, so we will not do much.
+This data is fairly clean already, so we will not do much.
 For most purposes, you can apply the same principles as [data curation for sleep analysis](sleepr.html#data-curation).
 
 ### Regime changes {-}

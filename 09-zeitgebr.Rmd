@@ -41,7 +41,7 @@ data(dams_sample)
 # We copy the data to our own variable so we can alter it
 dt <- copy(dams_sample) 
 ```
-This data set is recording of 32 animals, in DD.
+This data set is a recording of 32 animals, in DD.
 Let us print the metadata to understand the experiment a little bit:
 
 ```{r}

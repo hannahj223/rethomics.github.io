@@ -353,7 +353,7 @@ bout_summary <- bout_dt_second_day[,.(
 bout_summary
 ```
 
-For good measures, I also added number of bout and average bout length as we have seen before.
+For good measure, I also added number of bouts and average bout length as we have seen before.
 You can of course use these result to plot things like the relationship between bout length and bout number:
 
 ```{r achitecture}

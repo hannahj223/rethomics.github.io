@@ -394,7 +394,7 @@ ggplot(overall_summary, aes(latency / 60, sleep_fraction_l, colour=sex)) +
 
 Data analysis and visualisation is about **translating your biological questions to another language**.
 Problems in emerging areas of science can be very rich so they should be matched with the equally rich grammar that only a programming language can provide.
-This tutorial was very simple and does not pretend to provied a canonical sleep analysis.
+This tutorial was very simple and does not pretend to provide a canonical sleep analysis.
 Instead, see it as a set of building blocks that you can use and rearange to address your own questions.
 
 

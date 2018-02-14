@@ -357,7 +357,7 @@ For good measures, I also added number of bout and average bout length as we hav
 You can of course use these result to plot things like the relationship between bout length and bout number:
 
 ```{r achitecture}
-ggplot(rejoin(bout_summary), aes(n_bouts, mean_bout_length, colour=sex)) +
+ggplot(rejoin(bout_summary), aes(N_bouts, mean_bout_length, colour=sex)) +
     geom_point() +
     facet_grid(genotype ~ .) + 
     scale_x_continuous(name="Number of bouts") +

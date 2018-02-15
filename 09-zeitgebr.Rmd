@@ -256,7 +256,7 @@ ggplot(summary_dt, aes(period_group, period, fill= period_group)) +
         scale_y_hours(name = "Period (h)") 
 ```
 
-Another direction could be to perform pairwise wilcoxon tests between groups:
+Another direction could be to perform pairwise wilcox tests between groups:
 
 ```{r}
 pairwise.wilcox.test(summary_dt$period, summary_dt$period_group )

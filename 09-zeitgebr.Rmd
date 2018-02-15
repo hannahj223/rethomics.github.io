@@ -247,7 +247,7 @@ summary_dt
 `summary_dt` can be used as a standard `R` dataframe for further analysis.
 For instance, with `ggplot`, I make a **boxplot showing the distribution of periods**, in h,  for each groups.
 I also add **a point for each animal** (so we see outliers). 
-Then, I make the **size of the points proportional to the relative power of the peak discovered**, so we get an idea of how much to "trust" this point.
+Then, I make the **size of the points proportional to the relative power of the peak discovered**, so we get an idea of how much to "trust" this point. The below code doesn't seem to work
 
 ```{r}
 ggplot(summary_dt, aes(period_group, period, fill= period_group)) + 

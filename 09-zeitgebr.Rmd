@@ -80,7 +80,7 @@ dt[, moving := activity > 0]
 
 ### Overview plots {-}
 
-The first representation we show could be activity all animals over time in the same page.
+The first representation we show could be activity of all animals over time in the same page.
 This would help to spot ourliers.
 We simply do that with our **tile plot**.
 Note how we have changed the LD colours to grey and black, grey being for subjective days (remember, we are in DD).

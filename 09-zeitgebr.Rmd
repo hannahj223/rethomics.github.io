@@ -262,7 +262,7 @@ Another direction could be to perform pairwise wilcoxon tests between groups:
 pairwise.wilcox.test(summary_dt$period, summary_dt$period_group )
 ```
 
-This tells us that their is a statistically significant difference between each pair of group.
+This tells us that their is a statistically significant difference between each pair of groups.
 
 ## Next steps {-}
 

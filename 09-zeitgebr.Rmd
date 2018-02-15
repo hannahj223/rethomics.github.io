@@ -152,10 +152,10 @@ For instance, if you had a `sex` metavariable you could do: `facet_wrap( ~ perio
 ### Computation {-}
 
 An important part of circadian research is to compute the periodicity of the free running clock of multiple individuals.
-Mathematically, we would like to build a preiodogram. That is, generally speaking, a representation of the density (i.e. **power**) of a signal at different **periods** (or frequencies).
-In addition, a periodogram associates to each pair of power-period a **significance level**.
+Mathematically, we would like to build a periodogram. That is, generally speaking, a representation of the density (i.e. **power**) of a signal at different **periods** (or frequencies).
+In addition, a periodogram associates to each pair of power-periods a **significance level**.
 There are many algorithms to compute periodograms.
-In `zeitgebr`, we have si far implemented:
+In `zeitgebr`, we have so far implemented:
 
 * `ac_periodogram` -- An *autocorrelation* based method
 * `ls_periodogram` -- *Lomb-Scargle* algorithm

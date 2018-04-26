@@ -226,7 +226,7 @@ Also, as stated before, it can easily be reversed.
 
 ## Apply functions when loading {-}
 
-Finaly, we may want to apply a function on the data as it is loaded, in order to preprocess it, saving time. This pre-processing will annotate the data, i.e create new information (new columns) based on the original data. As an example, we can perform a sleep (bouts of immobility of 5 min or more), from our `sleepr` package (which you will have installed).
+Finally, we may want to apply a function on the data as it is loaded, in order to preprocess it, saving time. This pre-processing will annotate the data, i.e create new information (new columns) based on the original data. As an example, we can perform a sleep (bouts of immobility of 5 min or more), from our `sleepr` package (which you will have installed).
 
 ```{r}
 library(sleepr)

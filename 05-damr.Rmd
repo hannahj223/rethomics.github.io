@@ -215,11 +215,11 @@ In other chapters, we will learn how to group individuals, visualise and compute
 
 ### How to exclude animals? {-}
 
-We suggest to exclude animals *a priori* (e.g. because they died) by recording them as dead **in the metadata**. This way data is not modified or omited and can easily be recovered if needed.
+We suggest to exclude animals *a priori* (e.g. because they died) by recording them as dead **in the metadata**. This way data is not modified or omitted and can easily be recovered if needed.
 For instance, you can add a column `status` in your metadata file and put a default value such as `"OK"`.
 If an animal is to be removed, you can replace `"OK"` by **a reason** (e.g. `"dead"`, `"escaped"`, ...).
 Then, you can load your data without those animals `load_dam_data(metadata[status == "OK"], ...)`.
-This practice has the advantage of making it **very transparent**, why some individuals where excluded.
+This practice has the advantage of making it **very transparent**, why some individuals were excluded.
 Also, as stated before, it can easily be reversed.
 
 
